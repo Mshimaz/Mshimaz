@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with everything.
 - 💬 Ask me about Flutter and other related stuff
-- 📫 How to reach me: Instagram: https://www.instagram.com/mohd_shimaz
+- 📫 How to reach me: LinkedIn : www.linkedin.com/in/muhammed-shimaz-491a951a2
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Still learning
 
