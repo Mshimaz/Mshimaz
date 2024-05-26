@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on App development
-- 🌱 I’m currently learning React,HTML,Python etc..
-- 👯 I’m looking to collaborate on Android
-- 🤔 I’m looking for help with everything.
+- 🌱 I’m currently learning Figma,HTML,Python etc..
+- 👯 I’m looking to collaborate on Android and IOS
 - 💬 Ask me about Flutter and other related stuff
 - 📫 How to reach me: LinkedIn : www.linkedin.com/in/muhammed-shimaz-491a951a2
 - 😄 Pronouns: he/his/him
